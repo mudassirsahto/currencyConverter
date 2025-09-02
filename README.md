@@ -1,4 +1,4 @@
-📱 My Android App – App Name
+📱 My Android App – Currency Convertor
 
 🚀 Currency Convertor is an Android application built with Kotlin/Java and Gradle.
 This project converts forex exchange rates from USD to PKR and vice versa, where every push automatically:
