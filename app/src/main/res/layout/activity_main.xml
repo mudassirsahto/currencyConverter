@@ -40,7 +40,7 @@
         android:layout_marginTop="20dp"
         android:gravity="center_horizontal"
         android:text="0"
-        android:textColor="#EA7DF2"
+        android:textColor="#E91E63"
         android:textSize="48sp"
         android:textStyle="bold" />
 
