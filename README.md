@@ -25,6 +25,10 @@ Build Tool: Gradle
 
 Deployment: GitHub Artifacts (APK)
 
+📜 License
+
+This project is licensed under the MIT License.
+
 ⚙️ Features
 
 Simple Android "Currency Convertor" app (starter project)
